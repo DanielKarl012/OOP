@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Enrollment System",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "",
+            "cwd": "${workspaceFolder}",
+            "classPaths": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/lib/mysql-connector-j-26.7.0.jar"
+            ]
+        }
+    ]
+}
